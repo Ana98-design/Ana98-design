@@ -1,6 +1,8 @@
+aluna: Ana Karoline Higino Lima
+
 ## Decodificador de Texto - Challenge Alura
 
-Este projeto é um decodificador de texto, desenvolvido como parte do Challenge da Alura. O objetivo é criar uma página web que permite ao usuário criptografar e descriptografar mensagens utilizando um conjunto específico de regras. Este README detalha a estrutura do projeto e as funcionalidades implementadas.
+Este projeto é um decodificador de texto, desenvolvido como parte do Challenge da Alura. O objetivo é criar uma página web que permite ao usuário criptografar e descriptografar mensagens utilizando um conjunto específico de regras, como descriptografar mensagens secretas. 
 
 ## 📝 Descrição
 
@@ -8,7 +10,7 @@ O *Decodificador de Texto* permite ao usuário inserir uma mensagem e, através 
 
 - *Criptografar*: Transforma o texto de acordo com as regras estabelecidas.
 - *Descriptografar*: Reverte o texto criptografado de volta para o formato original.
-- *Copiar o texto criptografado/descriptografado*: O usuário pode copiar o resultado gerado.
+- *Copiar o texto criptografado/descriptografado*: o usuário utilizando o descriptografador pode copiar o resultado gerado para uso próprio.
   
 Este projeto segue as orientações fornecidas pela Alura no challenge e utiliza HTML, CSS e JavaScript.
 
